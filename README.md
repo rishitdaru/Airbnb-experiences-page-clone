@@ -11,7 +11,7 @@ This is a clone of the Airbnb experiences page.
 - The project has 3 components:
   - `NavBar.js`: inlcudes the navigation bar and displays the airbnb logo
   - `Hero.js`: displays the photo grid
-  - `Cards.js`: conditionally renders the card on the landing page with the help of CSS Styles
+  - `Cards.js`: conditionally renders the 'ONLINE'/'SOLD OUT' tag and image on the page with CSS Styles
 - `Data.js` contains the data related to the card components (additional data to be displayed on the webpage can be added in this file)
 - `App.js` then collates `Navbar.js`, `Hero.js` & `Cards.js` together and exports to `index.js`
 - `Index.js` renders the page.
