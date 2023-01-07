@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+## Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a clone of the Airbnb experiences page.
 
-# AirBnb Experience Website
+// add image here.
 
 - This project uses React & CSS3
 - The public directory contains the html page
@@ -11,20 +11,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - NavBar.js: inlcudes the navigation bar and displays the airbnb logo
   - Hero.js: displays the photo grid
   - Cards.js: conditionally renders the card on the landing page with the help of CSS Styles
-- Data.js contains the data related to the card components
+- Data.js contains the data related to the card components (additional data to be displayed on the webpage can be added in this file)
 - App.js then collates Navbar.js, Landing.js & Cards.js together and exports to index.js
 - Index.js renders the page.
 
-## Available Scripts
+## Installation
 
-### `npm i`
+The dependencies required are all included in the `package.json` file. They will all be installed by running the `npm install` command.
 
-In the project directory, you can run:
+## Set-up
 
-### `npm start`
+To start the project run `npm start`.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project was bootstrapped with create-react-app. `npx create-react-app`.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+  <img width="30px" alt="Shows a logo of c-sharp" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+</picture>
