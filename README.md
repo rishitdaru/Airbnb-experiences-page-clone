@@ -2,18 +2,19 @@
 
 This is a clone of the Airbnb experiences page.
 
+# Preview:
+
 // add image here.
 
-- This project uses React & CSS3
-- The public directory contains the html page
-- The src directory contains the images and the components folder and all other js and css files.
+- The `public` directory contains the html page
+- The `src` directory contains the images and the components folder and all other js and css files.
 - The project has 3 components:
-  - NavBar.js: inlcudes the navigation bar and displays the airbnb logo
-  - Hero.js: displays the photo grid
-  - Cards.js: conditionally renders the card on the landing page with the help of CSS Styles
-- Data.js contains the data related to the card components (additional data to be displayed on the webpage can be added in this file)
-- App.js then collates Navbar.js, Landing.js & Cards.js together and exports to index.js
-- Index.js renders the page.
+  - `NavBar.js`: inlcudes the navigation bar and displays the airbnb logo
+  - `Hero.js`: displays the photo grid
+  - `Cards.js`: conditionally renders the card on the landing page with the help of CSS Styles
+- `Data.js` contains the data related to the card components (additional data to be displayed on the webpage can be added in this file)
+- `App.js` then collates `Navbar.js`, `Hero.js` & `Cards.js` together and exports to `index.js`
+- `Index.js` renders the page.
 
 ## Installation
 
