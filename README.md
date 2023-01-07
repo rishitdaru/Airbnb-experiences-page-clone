@@ -4,7 +4,7 @@ This is a clone of the Airbnb experiences page.
 
 # Preview:
 
-// add image here.
+![webpage_screenshot](https://user-images.githubusercontent.com/65996001/211161771-287af7f5-567d-4685-ae38-0249aec21402.jpg)
 
 - The `public` directory contains the html page
 - The `src` directory contains the images and the components folder and all other js and css files.
